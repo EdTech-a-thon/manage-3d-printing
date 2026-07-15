@@ -3,6 +3,9 @@ out
 dist
 .svelte-kit/
 *.local
+.local/
+pb_data/
+pb_migrations/
 
 # dotenv environment variable files
 .env
